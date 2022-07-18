@@ -1,4 +1,4 @@
-# Forte
+# koigoi
 
 ## Description
 koigoi is a eCommerce web application built using React and Node/Express. This project was created by a team of 4. As tech lead, I created our server and implemented the Product Overview, checkout, and homepage components of our application.
