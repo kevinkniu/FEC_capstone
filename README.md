@@ -32,7 +32,6 @@ Edit `config.js` file with obtained token and a port of your choice.
 
 ### `npm run start`
 
-Start Server:\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
